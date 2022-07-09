@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'fifa-draw-angular';
+  public title: string = 'fifa-draw-angular';
 }
