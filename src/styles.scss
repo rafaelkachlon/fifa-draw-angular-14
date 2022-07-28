@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+$blue-500: #03045E;
+$blue-400: #0077B6;
+$blue-300: #00B4D8;
+$blue-200: #90E0EF;
+$blue-100: #CAF0F8;
+html, body {
+  margin: 0;
+  padding: 0;
+  background: $blue-300;
+}
